@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"net/http"
 	"fmt"
-	//"os"
+	"os"
 	"strings"
 	"io/ioutil"
 )
